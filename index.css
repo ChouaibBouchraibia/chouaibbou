@@ -1,0 +1,105 @@
+.flex-main{
+    display:flex;
+    background-color:lightblue;
+    height:1000px;
+    width:750px;
+    padding:45px;
+    flex-direction:column;
+  }
+  .entete{
+    display:flex;
+    flex-direction:row;
+    height:165px;
+    width:760px;
+    
+  }
+  .cadre-photo{
+    display : flex;
+    border : solid;
+    height : 160px;
+    width : 140px;
+  }
+  sur{
+    color:blue;
+  }
+  
+  .en-tete1{
+    display:flex;
+    background-color:DarkCyan;
+    width:220px;
+    height:160px;
+    flex-direction:column;
+    border:solid;
+     justify-content:center;
+    margin-right:1px;
+    
+  }
+  .en-tete2{ 
+    display:flex;
+    background-color:DarkCyan;
+    flex-direction:column;
+    border:solid;
+    height:160px;
+    width:410px;
+    margin-right:1px;
+     justify-content:center;
+  }
+  .box{
+    display:flex;
+  } 
+  .title{
+    display:flex;
+    background-color:PaleTurquoise;
+    flex-direction:column;
+    margin-top:20px;
+    border:solid;
+    align-items:center;
+    
+  }
+  lim{
+    color:green
+  }
+  .body{
+    display:flex;
+    flex-direction:column;
+    margin-top:10px;
+    margin-left:5px;
+  }
+  .Formations{
+    display:flex;
+    margin-top:10px;
+    border:solid;
+     background-color:Turquoise;
+    flex-direction:column;
+   
+  }
+  .Experiences{
+    display:flex;
+    flex-direction:column;
+    border:solid;
+       background-color:Turquoise;
+    height:170px;
+      
+  }
+  .Competences{
+    display:flex;
+    border:solid;
+    background-color:Turquoise ;
+    flex-direction:column;
+  }
+  .Langues{
+    display:flex;
+    
+    border:solid;
+      align-items:center;
+    height:120px;
+    background-color:turquoise;
+    flex-direction:column;
+  }
+  .interets{
+  display:flex;
+    border:solid;
+    background-color:Turquoise;
+    flex-direction:column;
+  }
+  
